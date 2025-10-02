@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "473440461007",
+    "project_id": "ocean-hazard123",
+    "storage_bucket": "ocean-hazard123.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473440461007:android:b5da2f0199be034c31d7ba",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuL6sJDh6yCgRpaJIBinW3R1v18rakxEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

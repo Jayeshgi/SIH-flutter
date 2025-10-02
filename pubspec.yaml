@@ -1,0 +1,36 @@
+name: flutter_app
+description: INCOIS Hazard Reporter
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.1.1
+  firebase_auth: ^6.1.0
+  cloud_firestore: ^6.0.2
+  image_picker: ^1.2.0
+  geolocator: ^9.0.2
+  permission_handler: ^12.0.1
+  connectivity_plus: ^7.0.0
+  hive_flutter: ^1.1.0
+  universal_html: ^2.2.4
+  camera: ^0.11.2
+  flutter_map: ^7.0.2
+  latlong2: ^0.9.1  # Ensure correct version
+  path_provider: ^2.1.4
+  image: ^4.2.0
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.3
+  build_runner: ^2.4.13
+  hive_generator: ^2.0.1
+
+flutter:
+  uses-material-design: true
